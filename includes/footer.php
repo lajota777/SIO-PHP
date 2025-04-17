@@ -1,5 +1,5 @@
 <footer>
-            <p>Pied de page</p>
+            <p>Site réalisé par Raphael Lopes - BTS SIO 1</p>
         </footer>
     </body>
 </html>
