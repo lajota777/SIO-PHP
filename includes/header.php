@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="../images/logo.png" alt="Logo">
+            <a href="../index.php"><img src="../images/logo.png" alt="Logo"></a>
         </div>
         <nav>
             <ul>
@@ -21,9 +21,5 @@
         </nav>
     </header>
     <aside>
-        <h2>Zone de sous-Menu en fonction de la page</h2>
-        <ul>
-            <li><a href="#exercice1">Exercice 1</a></li>
-            <li><a href="#exercice2">Exercice 2</a></li>
         </ul>
     </aside>
