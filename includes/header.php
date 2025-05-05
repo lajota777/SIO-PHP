@@ -13,13 +13,16 @@
         </div>
         <nav>
             <ul>
-                <li><a href="tp1.php">TP1</a></li>
-                <li><a href="tp2.php">TP2</a></li>
-                <li><a href="tp3.php">TP3</a></li>
-                <li><a href="tp4.php">TP4</a></li>
+                <li><a href="index.php?tp=tp1">TP1</a></li>
+                <li><a href="index.php?tp=tp2">TP2</a></li>
+                <li><a href="index.php?tp=tp3">TP3</a></li>
+                <li><a href="index.php?tp=tp4">TP4</a></li>
             </ul>
         </nav>
     </header>
     <aside>
+        <h2>Zone de sous-Menu en fonction de la page</h2>
+        <ul>
+            <!-- Exercices pour chaque TP peuvent être ajoutés ici -->
         </ul>
     </aside>
